@@ -1,0 +1,47 @@
+﻿
+@model RegisterVM
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="Name">
+        <span asp-validation-for="Name"></span>
+       
+    </div>
+    <div class="mb-3">
+        <label asp-for="SurName" class="form-label">Surname</label>
+        <input type="text" class="form-control" asp-for="SurName">
+        <span asp-validation-for="SurName"></span>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="Username" class="form-label">Username</label>
+        <input type="text" class="form-control" asp-for="Username">
+        <span asp-validation-for="Username"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input type="email" class="form-control" asp-for="Email">
+        <span asp-validation-for="Email"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label">Password</label>
+        <input type="password" class="form-control" asp-for="Password">
+        <span asp-validation-for="Password"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ConfirmPassword" class="form-label">ConfirmPassword</label>
+        <input type="password" class="form-control" asp-for="ConfirmPassword">
+        <span asp-validation-for="ConfirmPassword"></span>
+
+    </div>
+   
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -1,0 +1,58 @@
+﻿@model DetailDeveloperVM
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Detail Table</h4>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                <p>Id</p>
+                            </th>
+                            <th>
+                                <p>Image</p>
+                            </th>
+                            <th>
+                                <p>Name</p>
+                            </th>
+                            <th>
+                                <p>Position name</p>
+                            </th>
+                            <th>
+                                <p>Position Id</p>
+                            </th>
+                            <th>
+                                <p>Description</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>
+                                <p>@Model.Id</p>
+                            </th>
+                            <th>
+                                <img src="~/images/@Model.Image" />
+                            </th>
+                            <th>
+                                <p>@Model.Name</p>
+                            </th>
+                            <th>
+                                <p>@Model.PositionName</p>
+                            </th>
+                            <th>
+                                <p>@Model.PositionId</p>
+                            </th>
+                            <th>
+                                <p>@Model.Description</p>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+                <a asp-action="index" class="btn btn-success">Back</a>
+            </div>
+        </div>
+    </div>
+</div>

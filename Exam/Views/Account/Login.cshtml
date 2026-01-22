@@ -1,0 +1,23 @@
+﻿@model LoginVM
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+   
+    <div class="mb-3">
+        <label asp-for="UsernameorEmail" class="form-label">UsernameorEmail</label>
+        <input type="text" class="form-control" asp-for="UsernameorEmail">
+        <span asp-validation-for="UsernameorEmail"></span>
+
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label">Password</label>
+        <input type="password" class="form-control" asp-for="Password">
+        <span asp-validation-for="Password"></span>
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

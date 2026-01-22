@@ -1,0 +1,38 @@
+﻿@model CreateDeveloperVM
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create table</h4>
+        <form class="forms-sample" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="Image">Image</label>
+                <input asp-for="Image" class="form-control" placeholder="Image" accept="image/*">
+                <span class="text-danger" asp-validation-for="Image"></span>
+            </div>
+            <div class="form-group">
+                <label for="Name">Name</label>
+                <input asp-for="Name" type="text" class="form-control" placeholder="Name">
+                <span class="text-danger" asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group">
+                <label for="Description">Description</label>
+                <input asp-for="Description" type="text" class="form-control" placeholder="Description">
+                <span class="text-danger" asp-validation-for="Description"></span>
+            </div>
+            <div class="form-group">
+                <label for="PositionId">Position</label>
+                <select asp-for="PositionId" class="form-control">
+                    <option selected disabled>Choose Position</option>
+                    @foreach (Position position in Model.Positions)
+                    {
+                        <option value="@position.Id">@position.Name</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="PositionId"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary me-2">Create</button>
+            <button asp-action="index" class="btn btn-light">Cancel</button>
+        </form>
+    </div>
+</div>
