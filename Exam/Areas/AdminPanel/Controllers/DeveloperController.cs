@@ -126,10 +126,12 @@ namespace Exam.Areas.AdminPanel.Controllers
                     ModelState.AddModelError(nameof(updateDeveloperVM.Image), "not support");
                     return View(updateDeveloperVM);
                 }
+
+                existedDeveloper.Image.DeleteFile(_env.WebRootPath, "images");
                 existedDeveloper.Image = await updateDeveloperVM.Image.CreateFileAsync(_env.WebRootPath, "images");
 
 
-                existedDeveloper.Image.DeleteFile(_env.WebRootPath, "images");
+              
             }
 
             existedDeveloper.Name = updateDeveloperVM.Name;

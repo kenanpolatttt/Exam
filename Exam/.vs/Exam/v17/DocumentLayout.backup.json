@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\areas\\adminpanel\\controllers\\developercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:areas\\adminpanel\\controllers\\developercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\areas\\adminpanel\\viewmodels\\developer\\createdevelopervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\developer\\createdevelopervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Migrations\\20260122090933_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260122090933_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,16 +139,20 @@
       "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Migrations\\20260122060027_CreateDBs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260122060027_CreateDBs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Migrations\\20260122055643_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260122055643_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\migrations\\20260122090933_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:migrations\\20260122090933_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\migrations\\20260122060027_createdbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:migrations\\20260122060027_createdbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|c:\\users\\classtime\\desktop\\exam\\exam\\migrations\\20260122055643_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975B9E88-28DD-492D-8AA8-EA2F96EB8C0F}|Exam.csproj|solutionrelative:migrations\\20260122055643_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -174,8 +174,7 @@
               "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Developer\\GetDeveloperVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:18:33.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:18:33.126Z"
             },
             {
               "$type": "Document",
@@ -187,8 +186,7 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Developer\\Detail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T08:35:41.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:35:41.67Z"
             },
             {
               "$type": "Document",
@@ -200,8 +198,7 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Developer\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T08:36:02.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:36:02.708Z"
             },
             {
               "$type": "Document",
@@ -213,8 +210,7 @@
               "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Developer\\CreateDeveloperVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:18:54.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:18:54.461Z"
             },
             {
               "$type": "Document",
@@ -226,8 +222,7 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAK8AAAAAAAAAAAAowMsAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T05:34:08.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:34:08.173Z"
             },
             {
               "$type": "Document",
@@ -239,12 +234,11 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T05:33:54.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:33:54.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -265,18 +259,17 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Developer\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T08:35:21.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:35:21.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DeveloperController.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Areas\\AdminPanel\\Controllers\\DeveloperController.cs",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\DeveloperController.cs",
               "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Areas\\AdminPanel\\Controllers\\DeveloperController.cs",
               "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\DeveloperController.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAYwIwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwIEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T07:36:54.811Z",
               "EditorCaption": ""
@@ -291,8 +284,7 @@
               "RelativeToolTip": "Utilities\\Extensions\\FileValidator.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T08:09:54.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:09:54.841Z"
             },
             {
               "$type": "Document",
@@ -304,12 +296,11 @@
               "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Developer\\UpdateDeveloperVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:19:14.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:19:14.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -317,8 +308,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T05:29:13.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:29:13.406Z"
             },
             {
               "$type": "Document",
@@ -334,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Areas\\AdminPanel\\Views\\Developer\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Developer\\Create.cshtml",
@@ -342,12 +332,11 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Developer\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T08:51:50.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:51:50.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 35,
               "Title": "20260122090933_update.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Migrations\\20260122090933_update.cs",
               "RelativeDocumentMoniker": "Migrations\\20260122090933_update.cs",
@@ -355,12 +344,11 @@
               "RelativeToolTip": "Migrations\\20260122090933_update.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T09:09:33.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T09:09:33.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Developer.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Models\\Developer.cs",
               "RelativeDocumentMoniker": "Models\\Developer.cs",
@@ -368,12 +356,11 @@
               "RelativeToolTip": "Models\\Developer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T05:42:25.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:42:25.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
@@ -381,12 +368,11 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0BAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T05:34:02.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:34:02.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
@@ -394,12 +380,11 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T05:34:22.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:34:22.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
@@ -407,12 +392,11 @@
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T05:34:24.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:34:24.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "DetailDeveloperVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Areas\\AdminPanel\\ViewModels\\Developer\\DetailDeveloperVM.cs",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Developer\\DetailDeveloperVM.cs",
@@ -420,12 +404,11 @@
               "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Developer\\DetailDeveloperVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:19:43.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:19:43.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
@@ -433,12 +416,11 @@
               "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T05:41:04.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:41:04.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Models\\Position.cs",
               "RelativeDocumentMoniker": "Models\\Position.cs",
@@ -446,12 +428,11 @@
               "RelativeToolTip": "Models\\Position.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T05:42:34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:42:34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
@@ -459,12 +440,11 @@
               "RelativeToolTip": "Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T05:41:29.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:41:29.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -472,12 +452,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T05:28:19.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:28:19.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -485,12 +464,11 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T06:31:46.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:31:46.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\ViewModels\\Account\\RegisterVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\Account\\RegisterVM.cs",
@@ -498,12 +476,11 @@
               "RelativeToolTip": "ViewModels\\Account\\RegisterVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T06:38:24.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:38:24.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -511,12 +488,11 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T06:34:59.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:34:59.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -524,12 +500,11 @@
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAA0AAAAAAAAAAAAUwC4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T06:34:44.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:34:44.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -537,12 +512,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T05:26:37.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:26:37.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -550,12 +524,11 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T05:32:26.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:32:26.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -563,12 +536,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T05:44:25.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:44:25.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\ViewModels\\Account\\LoginVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\Account\\LoginVM.cs",
@@ -576,12 +548,11 @@
               "RelativeToolTip": "ViewModels\\Account\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T06:38:17.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:38:17.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -589,12 +560,11 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T05:33:29.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:33:29.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
@@ -602,12 +572,11 @@
               "RelativeToolTip": "ViewModels\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T06:05:49.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:05:49.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Utilities\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "Utilities\\Enums\\UserRole.cs",
@@ -615,12 +584,11 @@
               "RelativeToolTip": "Utilities\\Enums\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T06:06:11.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:06:11.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "20260122060027_CreateDBs.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Migrations\\20260122060027_CreateDBs.cs",
               "RelativeDocumentMoniker": "Migrations\\20260122060027_CreateDBs.cs",
@@ -628,12 +596,11 @@
               "RelativeToolTip": "Migrations\\20260122060027_CreateDBs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T06:00:28.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:00:28.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "20260122055643_CreateDB.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\Migrations\\20260122055643_CreateDB.cs",
               "RelativeDocumentMoniker": "Migrations\\20260122055643_CreateDB.cs",
@@ -641,12 +608,11 @@
               "RelativeToolTip": "Migrations\\20260122055643_CreateDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T05:56:43.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:56:43.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam\\Exam\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -654,8 +620,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-22T05:31:14.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T05:31:14.533Z"
             }
           ]
         }
